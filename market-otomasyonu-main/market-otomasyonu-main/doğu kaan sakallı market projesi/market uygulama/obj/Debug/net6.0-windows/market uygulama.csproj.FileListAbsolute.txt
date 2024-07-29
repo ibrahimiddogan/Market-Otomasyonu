@@ -1,0 +1,96 @@
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\market uygulama.exe
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\market uygulama.deps.json
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\market uygulama.runtimeconfig.json
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\market uygulama.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\ref\market uygulama.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\market uygulama.pdb
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.AssemblyReference.cache
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form1.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.GenerateResource.cache
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.AssemblyInfoInputs.cache
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.AssemblyInfo.cs
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.CopyComplete
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\ref\market uygulama.dll
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.pdb
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market uygulama.genruntimeconfig.cache
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form2.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form3.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form4.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Properties.Resources.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form5.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form6.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form7.resources
+C:\Users\Doğu\source\repos\market uygulama\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form8.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.exe
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.deps.json
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.runtimeconfig.json
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\ref\market uygulama.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.pdb
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.AssemblyReference.cache
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form1.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form2.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form3.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form4.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form5.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form6.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form7.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form8.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Properties.Resources.resources
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.GenerateResource.cache
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.AssemblyInfoInputs.cache
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.AssemblyInfo.cs
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.CopyComplete
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\ref\market uygulama.dll
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.pdb
+C:\Users\Doğu\Desktop\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.genruntimeconfig.cache
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.exe
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.deps.json
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.runtimeconfig.json
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\market uygulama.pdb
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.AssemblyReference.cache
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form1.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form2.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form3.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form4.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form5.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form6.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form7.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Form8.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market_uygulama.Properties.Resources.resources
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.GenerateResource.cache
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.AssemblyInfoInputs.cache
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.AssemblyInfo.cs
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.csproj.CopyComplete
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\refint\market uygulama.dll
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.pdb
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\market uygulama.genruntimeconfig.cache
+C:\Users\Doğu\Desktop\c# porojeler\doğu kaan sakallı market projesi\market uygulama\obj\Debug\net6.0-windows\ref\market uygulama.dll

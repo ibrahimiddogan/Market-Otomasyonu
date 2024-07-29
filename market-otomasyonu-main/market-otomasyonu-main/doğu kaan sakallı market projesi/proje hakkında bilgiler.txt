@@ -1,0 +1,3 @@
+admin şifresi: 1234
+kullanıcı adı:aa
+şifre:aa
